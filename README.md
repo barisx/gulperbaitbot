@@ -9,3 +9,4 @@
  3. Mouse Movement: Stop circle drawing.
  4. Do not Move Mouse: Start drawing circle.
  5. ESC: exit / stop
+ 6. INS to start. DEL to stop.
